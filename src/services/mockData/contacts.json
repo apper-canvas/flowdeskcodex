@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "+1 (555) 123-4567",
+    "company": "TechCorp Solutions",
+    "tags": ["lead", "enterprise"],
+    "createdAt": "2024-01-15T08:30:00Z",
+    "lastActivity": "2024-01-20T14:22:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Michael Chen",
+    "email": "m.chen@innovate.io",
+    "phone": "+1 (555) 234-5678",
+    "company": "Innovate Digital",
+    "tags": ["client", "high-value"],
+    "createdAt": "2024-01-10T10:15:00Z",
+    "lastActivity": "2024-01-22T09:45:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Emily Rodriguez",
+    "email": "emily.r@startup.com",
+    "phone": "+1 (555) 345-6789",
+    "company": "NextGen Startup",
+    "tags": ["prospect", "startup"],
+    "createdAt": "2024-01-18T16:20:00Z",
+    "lastActivity": "2024-01-21T11:30:00Z"
+  },
+  {
+    "id": "4",
+    "name": "David Thompson",
+    "email": "david@globaltech.com",
+    "phone": "+1 (555) 456-7890",
+    "company": "Global Tech Industries",
+    "tags": ["client", "enterprise", "vip"],
+    "createdAt": "2024-01-05T12:00:00Z",
+    "lastActivity": "2024-01-23T15:10:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Lisa Park",
+    "email": "lisa.park@creativestudio.com",
+    "phone": "+1 (555) 567-8901",
+    "company": "Creative Studio Co",
+    "tags": ["lead", "creative"],
+    "createdAt": "2024-01-12T14:45:00Z",
+    "lastActivity": "2024-01-19T13:20:00Z"
+  }
+]

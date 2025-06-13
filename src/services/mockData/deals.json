@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Enterprise Software License",
+    "value": 150000,
+    "stage": "Proposal",
+    "contactId": "1",
+    "probability": 75,
+    "expectedClose": "2024-02-15",
+    "createdAt": "2024-01-15T08:30:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Digital Marketing Package",
+    "value": 45000,
+    "stage": "Negotiation",
+    "contactId": "2",
+    "probability": 85,
+    "expectedClose": "2024-02-01",
+    "createdAt": "2024-01-10T10:15:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Website Redesign Project",
+    "value": 25000,
+    "stage": "Qualified",
+    "contactId": "3",
+    "probability": 60,
+    "expectedClose": "2024-02-28",
+    "createdAt": "2024-01-18T16:20:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Annual Support Contract",
+    "value": 75000,
+    "stage": "Closed Won",
+    "contactId": "4",
+    "probability": 100,
+    "expectedClose": "2024-01-30",
+    "createdAt": "2024-01-05T12:00:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Brand Identity Package",
+    "value": 18000,
+    "stage": "Discovery",
+    "contactId": "5",
+    "probability": 40,
+    "expectedClose": "2024-03-15",
+    "createdAt": "2024-01-12T14:45:00Z"
+  }
+]

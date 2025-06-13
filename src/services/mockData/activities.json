@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "type": "call",
+    "contactId": "1",
+    "dealId": "1",
+    "description": "Initial discovery call about enterprise software needs",
+    "timestamp": "2024-01-20T14:22:00Z",
+    "completed": true
+  },
+  {
+    "id": "2",
+    "type": "email",
+    "contactId": "2",
+    "dealId": "2",
+    "description": "Sent proposal for digital marketing package",
+    "timestamp": "2024-01-22T09:45:00Z",
+    "completed": true
+  },
+  {
+    "id": "3",
+    "type": "meeting",
+    "contactId": "3",
+    "dealId": "3",
+    "description": "Website requirements gathering session",
+    "timestamp": "2024-01-21T11:30:00Z",
+    "completed": true
+  },
+  {
+    "id": "4",
+    "type": "task",
+    "contactId": "4",
+    "dealId": "4",
+    "description": "Follow up on contract signing",
+    "timestamp": "2024-01-23T15:10:00Z",
+    "completed": false
+  },
+  {
+    "id": "5",
+    "type": "call",
+    "contactId": "5",
+    "dealId": "5",
+    "description": "Brand discovery workshop scheduled",
+    "timestamp": "2024-01-19T13:20:00Z",
+    "completed": true
+  },
+  {
+    "id": "6",
+    "type": "email",
+    "contactId": "1",
+    "dealId": null,
+    "description": "Welcome email sent with company information",
+    "timestamp": "2024-01-15T08:45:00Z",
+    "completed": true
+  },
+  {
+    "id": "7",
+    "type": "task",
+    "contactId": "2",
+    "dealId": "2",
+    "description": "Prepare contract documents",
+    "timestamp": "2024-01-24T10:00:00Z",
+    "completed": false
+  }
+]
