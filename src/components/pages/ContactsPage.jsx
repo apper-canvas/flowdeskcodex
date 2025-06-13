@@ -12,7 +12,7 @@ import Button from '@/components/atoms/Button';
 import Card from '@/components/atoms/Card';
 import ApperIcon from '@/components/ApperIcon';
 
-const Contacts = () => {
+const ContactsPage = () => {
   const [contacts, setContacts] = useState([]);
   const [filteredContacts, setFilteredContacts] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -284,4 +284,4 @@ const Contacts = () => {
   );
 };
 
-export default Contacts;
+export default ContactsPage;

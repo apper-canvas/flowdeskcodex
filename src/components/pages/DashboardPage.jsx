@@ -10,7 +10,7 @@ import ErrorState from '@/components/organisms/ErrorState';
 import Button from '@/components/atoms/Button';
 import ApperIcon from '@/components/ApperIcon';
 
-const Dashboard = () => {
+const DashboardPage = () => {
   const [contacts, setContacts] = useState([]);
   const [deals, setDeals] = useState([]);
   const [activities, setActivities] = useState([]);
@@ -255,4 +255,4 @@ const Dashboard = () => {
   );
 };
 
-export default Dashboard;
+export default DashboardPage;

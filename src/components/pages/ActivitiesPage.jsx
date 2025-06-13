@@ -11,7 +11,7 @@ import Button from '@/components/atoms/Button';
 import Card from '@/components/atoms/Card';
 import ApperIcon from '@/components/ApperIcon';
 
-const Activities = () => {
+const ActivitiesPage = () => {
   const [activities, setActivities] = useState([]);
   const [contacts, setContacts] = useState([]);
   const [deals, setDeals] = useState([]);
@@ -227,4 +227,4 @@ const Activities = () => {
   );
 };
 
-export default Activities;
+export default ActivitiesPage;

@@ -1,7 +1,7 @@
-import Dashboard from '@/components/pages/Dashboard';
-import Contacts from '@/components/pages/Contacts';
-import Deals from '@/components/pages/Deals';
-import Activities from '@/components/pages/Activities';
+import DashboardPage from '@/components/pages/DashboardPage';
+import ContactsPage from '@/components/pages/ContactsPage';
+import DealsPage from '@/components/pages/DealsPage';
+import ActivitiesPage from '@/components/pages/ActivitiesPage';
 
 export const routes = {
   dashboard: {
@@ -9,28 +9,28 @@ export const routes = {
     label: 'Dashboard',
     path: '/dashboard',
     icon: 'LayoutDashboard',
-    component: Dashboard
+component: DashboardPage
   },
   contacts: {
     id: 'contacts',
     label: 'Contacts',
     path: '/contacts',
     icon: 'Users',
-    component: Contacts
+component: ContactsPage
   },
   deals: {
     id: 'deals',
     label: 'Deals',
     path: '/deals',
     icon: 'Target',
-    component: Deals
+component: DealsPage
   },
   activities: {
     id: 'activities',
     label: 'Activities',
     path: '/activities',
     icon: 'Clock',
-    component: Activities
+component: ActivitiesPage
   }
 };
 

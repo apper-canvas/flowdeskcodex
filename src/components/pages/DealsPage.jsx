@@ -10,7 +10,7 @@ import EmptyState from '@/components/organisms/EmptyState';
 import Button from '@/components/atoms/Button';
 import Card from '@/components/atoms/Card';
 
-const Deals = () => {
+const DealsPage = () => {
   const [deals, setDeals] = useState([]);
   const [contacts, setContacts] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -220,4 +220,4 @@ const Deals = () => {
   );
 };
 
-export default Deals;
+export default DealsPage;
